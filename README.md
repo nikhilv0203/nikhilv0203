@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nikhil Vishwakarma
 - 👀 I’m interested in Ethical hacking 
-- 🌱 I’m currently learning Django framework
 - 📫 How to reach me nikhilv0203@gmail.com
 
 <!---
